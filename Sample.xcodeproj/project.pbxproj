@@ -15,6 +15,7 @@
 		4E33C2E62AD8EB3B002BA459 /* SampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E33C2E52AD8EB3B002BA459 /* SampleTests.swift */; };
 		4E33C2F02AD8EB3B002BA459 /* SampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E33C2EF2AD8EB3B002BA459 /* SampleUITests.swift */; };
 		4E33C2F22AD8EB3B002BA459 /* SampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E33C2F12AD8EB3B002BA459 /* SampleUITestsLaunchTests.swift */; };
+		4EB575922AF41A230057B063 /* DemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB575912AF41A230057B063 /* DemoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		4E33C2EB2AD8EB3B002BA459 /* SampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E33C2EF2AD8EB3B002BA459 /* SampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleUITests.swift; sourceTree = "<group>"; };
 		4E33C2F12AD8EB3B002BA459 /* SampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4EB575912AF41A230057B063 /* DemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				4E33C2D22AD8EB37002BA459 /* SampleApp.swift */,
 				4E33C2D42AD8EB37002BA459 /* ContentView.swift */,
 				4E33C2D62AD8EB37002BA459 /* Item.swift */,
+				4EB575912AF41A230057B063 /* DemoView.swift */,
 				4E33C2D82AD8EB3B002BA459 /* Assets.xcassets */,
 				4E33C2DA2AD8EB3B002BA459 /* Preview Content */,
 			);
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E33C2D52AD8EB37002BA459 /* ContentView.swift in Sources */,
+				4EB575922AF41A230057B063 /* DemoView.swift in Sources */,
 				4E33C2D72AD8EB37002BA459 /* Item.swift in Sources */,
 				4E33C2D32AD8EB37002BA459 /* SampleApp.swift in Sources */,
 			);
